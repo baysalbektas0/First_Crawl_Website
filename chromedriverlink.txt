@@ -1,0 +1,5 @@
+link = https://sites.google.com/a/chromium.org/chromedriver/downloads
+
+Chrome versiyonunuza göre gereken driver versiyonunu linki kullanarak indirebilirsiniz.
+Selenium projesinin çalışması için chromedriver.exe dosyasını projenin içinde olduğu dosyanın içinde bulunması gerekir.
+Veya dosya yolunu path değişkenine string olarak belirtmek gerekir.
